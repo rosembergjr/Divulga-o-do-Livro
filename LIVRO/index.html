@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Era Artificial</title>
+    <link rel="stylesheet" href="estilo.css">
+</head> 
+
+<body>
+    <section id="primeira">
+    <h1>A Era Artificial</h1>
+    <img src="capa-livro.jpg" alt="Capa do livro">
+    <h2>Um futuro sombrio a nosso caminho</h2>
+    <p>Em "A Era Artificial", o autor explora as profundas transformações que a inteligência artificial (IA) está trazendo para a sociedade. O livro aborda como a IA está impactando diversos setores, desde a economia até a ética, e discute as implicações futuras dessa tecnologia revolucionária.</p>
+    <a href="https://www.amazon.com.br/Era-Artificial-tempo-sombrio-m%C3%A1quinas-ebook/dp/B07VFF5368" target="_blank" rel="noopener noreferrer">Comprar</a>
+    </section>
+    
+    <!-- 2° seção -->
+     <section id="segunda">
+    <h3>Uma história intensa</h3>
+    <p><span>ERA ARTIFICIAL - O tempo sombrio das máquinas</span> deixa o leitor impressionado com a narrativa envolvente e os personagens bem desenvolvidos.</p>
+    </section>
+    
+    <!-- 3° seção -->
+     <section id="terceira">
+    <h4>Informações sobre o autor</h4>
+    <img src="autor.jpg" alt="Foto do autor">
+    <p>O autor de "A Era Artificial" é um renomado pesquisador em inteligência artificial, com mais de 20 anos de experiência no campo. Ele é também um escritor prolífico, tendo publicado diversos livros sobre tecnologia e sua influência na sociedade.</p>
+    </section>
+
+    <!-- 4° seção -->
+     <section id="quarta">
+     <p>O livro <span>A Era Artificial</span> apresenta um cenário apocalíptico sobre o futuro da humanidade. Onde os robôs se tornam a espécie dominante do planeta.</p>
+     <p><span>Esse e mais detalhes do livro podem ser vistos nessa ficção científica que lhe fará pensar mais sobre o futuro da humanidade </span></p>
+     <a href="https://www.amazon.com.br/Era-Artificial-tempo-sombrio-m%C3%A1quinas-ebook/dp/B07VFF5368" target="_blank" rel="noopener noreferrer">Comprar</a>
+     </section>
+</body>
+</html>
